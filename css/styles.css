@@ -16218,19 +16218,10 @@ a.disabled {
   background-color: #72767b;
   color: #fff;
 }
-.breadcrumb > li:first-child a:before {
-  color: #d1d1d1;
-  content: "\f100";
-  font-family: FontAwesome;
-  font-size: 11px;
-  padding: 0 9px 0 7px;
-}
-.breadcrumb > li + li:before {
-  content: "\f105";
-}
-.breadcrumb-bxms {
-  background-color: #fff;
-  margin-bottom: 0;
+.bxms-row__nav-tabs {
+  padding-left: .5em;
+  padding-right: .5em;
+  margin-top: .5em;
 }
 .row-toolbar-bxms {
   padding: .25em 0;
